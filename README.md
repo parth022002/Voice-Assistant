@@ -37,10 +37,6 @@
 10. **AJAX**
 
 ### Screenshots
-<video width="320" height="240" controls>
-  <source src="Output(Screenshots)\Recording.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 <img src="Output(Screenshots)\Screenshot 1.png" alt="Screenshot 1" >
 <br />
