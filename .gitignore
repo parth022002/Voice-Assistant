@@ -1,0 +1,7 @@
+/env
+contacts.csv
+echo.db
+/engine/__pycache__
+/engine/cookies.json
+__pycache__
+.vscode
